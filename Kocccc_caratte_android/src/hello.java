@@ -16,5 +16,6 @@ public class hello {
 		String General = "Kenobi";
 		int x = 13;
 		x = 19;
+		int text = 23;
 	}
 }
